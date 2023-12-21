@@ -1,3 +1,7 @@
+# Hosted Link: <a href="https://react-movie-cards-gamma.vercel.app/"> Click Here</a>
+<br>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
